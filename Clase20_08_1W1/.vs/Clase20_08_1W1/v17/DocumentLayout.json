@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\Tecnicatura en Programaci\u00F3n\\Programacion II\\Proyectos\\Clase20_08_1W1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB61C6D9-E63C-47AC-A886-19175C11B28B}|Clase20_08_1W1\\Clase20_08_1W1.csproj|c:\\users\\usuario\\desktop\\tecnicatura en programaci\u00F3n\\programacion ii\\proyectos\\clase20_08_1w1\\clase20_08_1w1\\clases\\pila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB61C6D9-E63C-47AC-A886-19175C11B28B}|Clase20_08_1W1\\Clase20_08_1W1.csproj|solutionrelative:clase20_08_1w1\\clases\\pila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB61C6D9-E63C-47AC-A886-19175C11B28B}|Clase20_08_1W1\\Clase20_08_1W1.csproj|c:\\users\\usuario\\desktop\\tecnicatura en programaci\u00F3n\\programacion ii\\proyectos\\clase20_08_1w1\\clase20_08_1w1\\clases\\cola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB61C6D9-E63C-47AC-A886-19175C11B28B}|Clase20_08_1W1\\Clase20_08_1W1.csproj|solutionrelative:clase20_08_1w1\\clases\\cola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB61C6D9-E63C-47AC-A886-19175C11B28B}|Clase20_08_1W1\\Clase20_08_1W1.csproj|c:\\users\\usuario\\desktop\\tecnicatura en programaci\u00F3n\\programacion ii\\proyectos\\clase20_08_1w1\\clase20_08_1w1\\clases\\collection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB61C6D9-E63C-47AC-A886-19175C11B28B}|Clase20_08_1W1\\Clase20_08_1W1.csproj|solutionrelative:clase20_08_1w1\\clases\\collection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB61C6D9-E63C-47AC-A886-19175C11B28B}|Clase20_08_1W1\\Clase20_08_1W1.csproj|c:\\users\\usuario\\desktop\\tecnicatura en programaci\u00F3n\\programacion ii\\proyectos\\clase20_08_1w1\\clase20_08_1w1\\interfaces\\icollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB61C6D9-E63C-47AC-A886-19175C11B28B}|Clase20_08_1W1\\Clase20_08_1W1.csproj|solutionrelative:clase20_08_1w1\\interfaces\\icollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB61C6D9-E63C-47AC-A886-19175C11B28B}|Clase20_08_1W1\\Clase20_08_1W1.csproj|c:\\users\\usuario\\desktop\\tecnicatura en programaci\u00F3n\\programacion ii\\proyectos\\clase20_08_1w1\\clase20_08_1w1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB61C6D9-E63C-47AC-A886-19175C11B28B}|Clase20_08_1W1\\Clase20_08_1W1.csproj|solutionrelative:clase20_08_1w1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pila.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Tecnicatura en Programaci\u00F3n\\Programacion II\\Proyectos\\Clase20_08_1W1\\Clase20_08_1W1\\Clases\\Pila.cs",
+              "RelativeDocumentMoniker": "Clase20_08_1W1\\Clases\\Pila.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Tecnicatura en Programaci\u00F3n\\Programacion II\\Proyectos\\Clase20_08_1W1\\Clase20_08_1W1\\Clases\\Pila.cs",
+              "RelativeToolTip": "Clase20_08_1W1\\Clases\\Pila.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T23:05:56.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cola.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Tecnicatura en Programaci\u00F3n\\Programacion II\\Proyectos\\Clase20_08_1W1\\Clase20_08_1W1\\Clases\\Cola.cs",
+              "RelativeDocumentMoniker": "Clase20_08_1W1\\Clases\\Cola.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Tecnicatura en Programaci\u00F3n\\Programacion II\\Proyectos\\Clase20_08_1W1\\Clase20_08_1W1\\Clases\\Cola.cs",
+              "RelativeToolTip": "Clase20_08_1W1\\Clases\\Cola.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T23:01:39.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Collection.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Tecnicatura en Programaci\u00F3n\\Programacion II\\Proyectos\\Clase20_08_1W1\\Clase20_08_1W1\\Clases\\Collection.cs",
+              "RelativeDocumentMoniker": "Clase20_08_1W1\\Clases\\Collection.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Tecnicatura en Programaci\u00F3n\\Programacion II\\Proyectos\\Clase20_08_1W1\\Clase20_08_1W1\\Clases\\Collection.cs",
+              "RelativeToolTip": "Clase20_08_1W1\\Clases\\Collection.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T22:44:20.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICollection.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Tecnicatura en Programaci\u00F3n\\Programacion II\\Proyectos\\Clase20_08_1W1\\Clase20_08_1W1\\Interfaces\\ICollection.cs",
+              "RelativeDocumentMoniker": "Clase20_08_1W1\\Interfaces\\ICollection.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Tecnicatura en Programaci\u00F3n\\Programacion II\\Proyectos\\Clase20_08_1W1\\Clase20_08_1W1\\Interfaces\\ICollection.cs",
+              "RelativeToolTip": "Clase20_08_1W1\\Interfaces\\ICollection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T22:40:59.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Tecnicatura en Programaci\u00F3n\\Programacion II\\Proyectos\\Clase20_08_1W1\\Clase20_08_1W1\\Program.cs",
+              "RelativeDocumentMoniker": "Clase20_08_1W1\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Tecnicatura en Programaci\u00F3n\\Programacion II\\Proyectos\\Clase20_08_1W1\\Clase20_08_1W1\\Program.cs",
+              "RelativeToolTip": "Clase20_08_1W1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T22:35:15.062Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
