@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\Tecnicatura en Programaci\u00F3n\\Programacion II\\Proyectos\\Ejercicio1_6_U1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D66AEE-C225-42F8-B651-82754F328DD1}|Ejercicio1_6_U1\\Ejercicio1_6_U1.csproj|c:\\users\\usuario\\desktop\\tecnicatura en programaci\u00F3n\\programacion ii\\proyectos\\ejercicio1_6_u1\\ejercicio1_6_u1\\data\\utils\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2D66AEE-C225-42F8-B651-82754F328DD1}|Ejercicio1_6_U1\\Ejercicio1_6_U1.csproj|solutionrelative:ejercicio1_6_u1\\data\\utils\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D66AEE-C225-42F8-B651-82754F328DD1}|Ejercicio1_6_U1\\Ejercicio1_6_U1.csproj|c:\\users\\usuario\\desktop\\tecnicatura en programaci\u00F3n\\programacion ii\\proyectos\\ejercicio1_6_u1\\ejercicio1_6_u1\\data\\repositories\\typeaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2D66AEE-C225-42F8-B651-82754F328DD1}|Ejercicio1_6_U1\\Ejercicio1_6_U1.csproj|solutionrelative:ejercicio1_6_u1\\data\\repositories\\typeaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D66AEE-C225-42F8-B651-82754F328DD1}|Ejercicio1_6_U1\\Ejercicio1_6_U1.csproj|c:\\users\\usuario\\desktop\\tecnicatura en programaci\u00F3n\\programacion ii\\proyectos\\ejercicio1_6_u1\\ejercicio1_6_u1\\services\\clientservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2D66AEE-C225-42F8-B651-82754F328DD1}|Ejercicio1_6_U1\\Ejercicio1_6_U1.csproj|solutionrelative:ejercicio1_6_u1\\services\\clientservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D66AEE-C225-42F8-B651-82754F328DD1}|Ejercicio1_6_U1\\Ejercicio1_6_U1.csproj|c:\\users\\usuario\\desktop\\tecnicatura en programaci\u00F3n\\programacion ii\\proyectos\\ejercicio1_6_u1\\ejercicio1_6_u1\\data\\repositories\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2D66AEE-C225-42F8-B651-82754F328DD1}|Ejercicio1_6_U1\\Ejercicio1_6_U1.csproj|solutionrelative:ejercicio1_6_u1\\data\\repositories\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D66AEE-C225-42F8-B651-82754F328DD1}|Ejercicio1_6_U1\\Ejercicio1_6_U1.csproj|c:\\users\\usuario\\desktop\\tecnicatura en programaci\u00F3n\\programacion ii\\proyectos\\ejercicio1_6_u1\\ejercicio1_6_u1\\data\\interfaces\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2D66AEE-C225-42F8-B651-82754F328DD1}|Ejercicio1_6_U1\\Ejercicio1_6_U1.csproj|solutionrelative:ejercicio1_6_u1\\data\\interfaces\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D66AEE-C225-42F8-B651-82754F328DD1}|Ejercicio1_6_U1\\Ejercicio1_6_U1.csproj|c:\\users\\usuario\\desktop\\tecnicatura en programaci\u00F3n\\programacion ii\\proyectos\\ejercicio1_6_u1\\ejercicio1_6_u1\\domain\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2D66AEE-C225-42F8-B651-82754F328DD1}|Ejercicio1_6_U1\\Ejercicio1_6_U1.csproj|solutionrelative:ejercicio1_6_u1\\domain\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D66AEE-C225-42F8-B651-82754F328DD1}|Ejercicio1_6_U1\\Ejercicio1_6_U1.csproj|c:\\users\\usuario\\desktop\\tecnicatura en programaci\u00F3n\\programacion ii\\proyectos\\ejercicio1_6_u1\\ejercicio1_6_u1\\tests\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2D66AEE-C225-42F8-B651-82754F328DD1}|Ejercicio1_6_U1\\Ejercicio1_6_U1.csproj|solutionrelative:ejercicio1_6_u1\\tests\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Tecnicatura en Programaci\u00F3n\\Programacion II\\Proyectos\\Ejercicio1_6_U1\\Ejercicio1_6_U1\\Data\\Utils\\DataHelper.cs",
+              "RelativeDocumentMoniker": "Ejercicio1_6_U1\\Data\\Utils\\DataHelper.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Tecnicatura en Programaci\u00F3n\\Programacion II\\Proyectos\\Ejercicio1_6_U1\\Ejercicio1_6_U1\\Data\\Utils\\DataHelper.cs",
+              "RelativeToolTip": "Ejercicio1_6_U1\\Data\\Utils\\DataHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T14:12:03.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TypeAccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Tecnicatura en Programaci\u00F3n\\Programacion II\\Proyectos\\Ejercicio1_6_U1\\Ejercicio1_6_U1\\Data\\Repositories\\TypeAccountRepository.cs",
+              "RelativeDocumentMoniker": "Ejercicio1_6_U1\\Data\\Repositories\\TypeAccountRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Tecnicatura en Programaci\u00F3n\\Programacion II\\Proyectos\\Ejercicio1_6_U1\\Ejercicio1_6_U1\\Data\\Repositories\\TypeAccountRepository.cs",
+              "RelativeToolTip": "Ejercicio1_6_U1\\Data\\Repositories\\TypeAccountRepository.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwCUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T14:10:12.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientServices.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Tecnicatura en Programaci\u00F3n\\Programacion II\\Proyectos\\Ejercicio1_6_U1\\Ejercicio1_6_U1\\Services\\ClientServices.cs",
+              "RelativeDocumentMoniker": "Ejercicio1_6_U1\\Services\\ClientServices.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Tecnicatura en Programaci\u00F3n\\Programacion II\\Proyectos\\Ejercicio1_6_U1\\Ejercicio1_6_U1\\Services\\ClientServices.cs",
+              "RelativeToolTip": "Ejercicio1_6_U1\\Services\\ClientServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T12:44:42.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Tecnicatura en Programaci\u00F3n\\Programacion II\\Proyectos\\Ejercicio1_6_U1\\Ejercicio1_6_U1\\Data\\Repositories\\ClientRepository.cs",
+              "RelativeDocumentMoniker": "Ejercicio1_6_U1\\Data\\Repositories\\ClientRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Tecnicatura en Programaci\u00F3n\\Programacion II\\Proyectos\\Ejercicio1_6_U1\\Ejercicio1_6_U1\\Data\\Repositories\\ClientRepository.cs",
+              "RelativeToolTip": "Ejercicio1_6_U1\\Data\\Repositories\\ClientRepository.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAowGkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T12:31:42.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IClientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Tecnicatura en Programaci\u00F3n\\Programacion II\\Proyectos\\Ejercicio1_6_U1\\Ejercicio1_6_U1\\Data\\Interfaces\\IClientRepository.cs",
+              "RelativeDocumentMoniker": "Ejercicio1_6_U1\\Data\\Interfaces\\IClientRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Tecnicatura en Programaci\u00F3n\\Programacion II\\Proyectos\\Ejercicio1_6_U1\\Ejercicio1_6_U1\\Data\\Interfaces\\IClientRepository.cs",
+              "RelativeToolTip": "Ejercicio1_6_U1\\Data\\Interfaces\\IClientRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T12:28:59.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Tecnicatura en Programaci\u00F3n\\Programacion II\\Proyectos\\Ejercicio1_6_U1\\Ejercicio1_6_U1\\Domain\\Client.cs",
+              "RelativeDocumentMoniker": "Ejercicio1_6_U1\\Domain\\Client.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Tecnicatura en Programaci\u00F3n\\Programacion II\\Proyectos\\Ejercicio1_6_U1\\Ejercicio1_6_U1\\Domain\\Client.cs",
+              "RelativeToolTip": "Ejercicio1_6_U1\\Domain\\Client.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T11:12:38.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Tecnicatura en Programaci\u00F3n\\Programacion II\\Proyectos\\Ejercicio1_6_U1\\Ejercicio1_6_U1\\Tests\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio1_6_U1\\Tests\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Tecnicatura en Programaci\u00F3n\\Programacion II\\Proyectos\\Ejercicio1_6_U1\\Ejercicio1_6_U1\\Tests\\Program.cs",
+              "RelativeToolTip": "Ejercicio1_6_U1\\Tests\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T10:37:12.235Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
