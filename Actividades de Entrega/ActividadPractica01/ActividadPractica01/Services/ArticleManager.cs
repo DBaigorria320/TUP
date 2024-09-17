@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace ActividadPractica01.Services
 {
-    public class ArticleManager
+    public class ArticleManager : IArticleService
     {
         private IArticleRepository _repository;
 
@@ -18,9 +18,14 @@ namespace ActividadPractica01.Services
             _repository = new ArticleRepository();
         }
 
-        public List<Article> GetAllArticles()
+        public bool AddArticle(Article a)
         {
-            return _repository.GetAll();
+            return _repository.Save(a);
+        }
+
+        public bool DeletedArticle(int id)
+        {
+            return _repository.Delete(id);
         }
 
         public Article GetArticleById(int id)
@@ -28,14 +33,9 @@ namespace ActividadPractica01.Services
             return _repository.GetById(id);
         }
 
-        public bool SaveArticle(Article oArticle)
+        public List<Article> GetArticles()
         {
-            return _repository.Save(oArticle);
-        }
-
-        public bool DeleteArticle(int id)
-        {
-            return _repository.Delete(id);
+            return _repository.GetAll();
         }
     }
 }

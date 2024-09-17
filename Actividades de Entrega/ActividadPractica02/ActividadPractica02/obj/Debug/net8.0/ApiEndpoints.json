@@ -1,0 +1,60 @@
+[
+  {
+    "ContainingType": "ActividadPractica02.Controllers.ArticuloController",
+    "Method": "Post",
+    "RelativePath": "api/Articulo",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "a",
+        "Type": "ActividadPractica01.Domain.Article",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ActividadPractica02.Controllers.ArticuloController",
+    "Method": "Get",
+    "RelativePath": "api/Articulo/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ActividadPractica02.Controllers.ArticuloController",
+    "Method": "Delete",
+    "RelativePath": "api/Articulo/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ActividadPractica02.Controllers.ArticuloController",
+    "Method": "Get",
+    "RelativePath": "api/Articulo/articulos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

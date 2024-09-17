@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Vt5myVDJBWAjtU24CXRp3RiPgyew7qk/AELVvdFPkXiy8mWewvWnYJQShTiwcppLTxIAHfezHFkZlQqo/vKBKA==",
+  "dgSpecHash": "KtOOquPM2/Y=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\Tecnicatura en Programación\\Programacion II\\Proyectos\\ActividadPractica01\\ActividadPractica01\\ActividadPractica01.csproj",
+  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\Tecnicatura en Programación\\Programacion II\\Proyectos\\Actividades de Entrega\\ActividadPractica01\\ActividadPractica01\\ActividadPractica01.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

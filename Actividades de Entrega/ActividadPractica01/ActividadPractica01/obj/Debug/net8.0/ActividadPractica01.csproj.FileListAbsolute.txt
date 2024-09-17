@@ -23,3 +23,18 @@ C:\Users\Usuario\Desktop\Tecnicatura en Programación\Programacion II\Proyectos\
 C:\Users\Usuario\Desktop\Tecnicatura en Programación\Programacion II\Proyectos\ActividadPractica01\ActividadPractica01\obj\Debug\net8.0\ActividadPractica01.pdb
 C:\Users\Usuario\Desktop\Tecnicatura en Programación\Programacion II\Proyectos\ActividadPractica01\ActividadPractica01\obj\Debug\net8.0\ActividadPractica01.genruntimeconfig.cache
 C:\Users\Usuario\Desktop\Tecnicatura en Programación\Programacion II\Proyectos\ActividadPractica01\ActividadPractica01\obj\Debug\net8.0\ref\ActividadPractica01.dll
+C:\Users\Usuario\Desktop\Tecnicatura en Programación\Programacion II\Proyectos\Actividades de Entrega\ActividadPractica01\ActividadPractica01\obj\Debug\net8.0\ActividadPractica01.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Tecnicatura en Programación\Programacion II\Proyectos\Actividades de Entrega\ActividadPractica01\ActividadPractica01\obj\Debug\net8.0\ActividadPractica01.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Tecnicatura en Programación\Programacion II\Proyectos\Actividades de Entrega\ActividadPractica01\ActividadPractica01\obj\Debug\net8.0\ActividadPractica01.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Tecnicatura en Programación\Programacion II\Proyectos\Actividades de Entrega\ActividadPractica01\ActividadPractica01\obj\Debug\net8.0\ActividadPractica01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Tecnicatura en Programación\Programacion II\Proyectos\Actividades de Entrega\ActividadPractica01\ActividadPractica01\obj\Debug\net8.0\ActividadPractica01.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Tecnicatura en Programación\Programacion II\Proyectos\Actividades de Entrega\ActividadPractica01\ActividadPractica01\obj\Debug\net8.0\ActividadPractica01.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Tecnicatura en Programación\Programacion II\Proyectos\Actividades de Entrega\ActividadPractica01\ActividadPractica01\obj\Debug\net8.0\ActividadPractica01.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Tecnicatura en Programación\Programacion II\Proyectos\Actividades de Entrega\ActividadPractica01\ActividadPractica01\obj\Debug\net8.0\ActividadPractica01.sourcelink.json
+C:\Users\Usuario\Desktop\Tecnicatura en Programación\Programacion II\Proyectos\Actividades de Entrega\ActividadPractica01\ActividadPractica01\obj\Debug\net8.0\ActividadPractica01.dll
+C:\Users\Usuario\Desktop\Tecnicatura en Programación\Programacion II\Proyectos\Actividades de Entrega\ActividadPractica01\ActividadPractica01\obj\Debug\net8.0\refint\ActividadPractica01.dll
+C:\Users\Usuario\Desktop\Tecnicatura en Programación\Programacion II\Proyectos\Actividades de Entrega\ActividadPractica01\ActividadPractica01\obj\Debug\net8.0\ActividadPractica01.pdb
+C:\Users\Usuario\Desktop\Tecnicatura en Programación\Programacion II\Proyectos\Actividades de Entrega\ActividadPractica01\ActividadPractica01\bin\Debug\net8.0\ActividadPractica01.deps.json
+C:\Users\Usuario\Desktop\Tecnicatura en Programación\Programacion II\Proyectos\Actividades de Entrega\ActividadPractica01\ActividadPractica01\bin\Debug\net8.0\ActividadPractica01.dll
+C:\Users\Usuario\Desktop\Tecnicatura en Programación\Programacion II\Proyectos\Actividades de Entrega\ActividadPractica01\ActividadPractica01\bin\Debug\net8.0\ActividadPractica01.pdb
+C:\Users\Usuario\Desktop\Tecnicatura en Programación\Programacion II\Proyectos\Actividades de Entrega\ActividadPractica01\ActividadPractica01\obj\Debug\net8.0\ref\ActividadPractica01.dll
