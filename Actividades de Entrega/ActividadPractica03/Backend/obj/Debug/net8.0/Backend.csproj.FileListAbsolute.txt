@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\Tecnicatura en Programación\Programacion II\Proyectos\Actividades de Entrega\ActividadPractica03\Backend\bin\Debug\net8.0\Backend.deps.json
+C:\Users\Usuario\Desktop\Tecnicatura en Programación\Programacion II\Proyectos\Actividades de Entrega\ActividadPractica03\Backend\bin\Debug\net8.0\Backend.dll
+C:\Users\Usuario\Desktop\Tecnicatura en Programación\Programacion II\Proyectos\Actividades de Entrega\ActividadPractica03\Backend\bin\Debug\net8.0\Backend.pdb
+C:\Users\Usuario\Desktop\Tecnicatura en Programación\Programacion II\Proyectos\Actividades de Entrega\ActividadPractica03\Backend\obj\Debug\net8.0\Backend.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Tecnicatura en Programación\Programacion II\Proyectos\Actividades de Entrega\ActividadPractica03\Backend\obj\Debug\net8.0\Backend.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Tecnicatura en Programación\Programacion II\Proyectos\Actividades de Entrega\ActividadPractica03\Backend\obj\Debug\net8.0\Backend.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Tecnicatura en Programación\Programacion II\Proyectos\Actividades de Entrega\ActividadPractica03\Backend\obj\Debug\net8.0\Backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Tecnicatura en Programación\Programacion II\Proyectos\Actividades de Entrega\ActividadPractica03\Backend\obj\Debug\net8.0\Backend.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Tecnicatura en Programación\Programacion II\Proyectos\Actividades de Entrega\ActividadPractica03\Backend\obj\Debug\net8.0\Backend.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Tecnicatura en Programación\Programacion II\Proyectos\Actividades de Entrega\ActividadPractica03\Backend\obj\Debug\net8.0\Backend.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Tecnicatura en Programación\Programacion II\Proyectos\Actividades de Entrega\ActividadPractica03\Backend\obj\Debug\net8.0\Backend.sourcelink.json
+C:\Users\Usuario\Desktop\Tecnicatura en Programación\Programacion II\Proyectos\Actividades de Entrega\ActividadPractica03\Backend\obj\Debug\net8.0\Backend.dll
+C:\Users\Usuario\Desktop\Tecnicatura en Programación\Programacion II\Proyectos\Actividades de Entrega\ActividadPractica03\Backend\obj\Debug\net8.0\refint\Backend.dll
+C:\Users\Usuario\Desktop\Tecnicatura en Programación\Programacion II\Proyectos\Actividades de Entrega\ActividadPractica03\Backend\obj\Debug\net8.0\Backend.pdb
+C:\Users\Usuario\Desktop\Tecnicatura en Programación\Programacion II\Proyectos\Actividades de Entrega\ActividadPractica03\Backend\obj\Debug\net8.0\ref\Backend.dll

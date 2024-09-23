@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\Tecnicatura en Programaci\u00F3n\\Programacion II\\Proyectos\\Actividades de Entrega\\ActividadPractica03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{845339E9-7BF5-4DA9-8752-A32FF192FF78}|Backend\\Backend.csproj|c:\\users\\usuario\\desktop\\tecnicatura en programaci\u00F3n\\programacion ii\\proyectos\\actividades de entrega\\actividadpractica03\\backend\\services\\receipmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{845339E9-7BF5-4DA9-8752-A32FF192FF78}|Backend\\Backend.csproj|solutionrelative:backend\\services\\receipmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{845339E9-7BF5-4DA9-8752-A32FF192FF78}|Backend\\Backend.csproj|c:\\users\\usuario\\desktop\\tecnicatura en programaci\u00F3n\\programacion ii\\proyectos\\actividades de entrega\\actividadpractica03\\backend\\data\\repository\\receiprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{845339E9-7BF5-4DA9-8752-A32FF192FF78}|Backend\\Backend.csproj|solutionrelative:backend\\data\\repository\\receiprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{845339E9-7BF5-4DA9-8752-A32FF192FF78}|Backend\\Backend.csproj|c:\\users\\usuario\\desktop\\tecnicatura en programaci\u00F3n\\programacion ii\\proyectos\\actividades de entrega\\actividadpractica03\\backend\\data\\interfaces\\ireceiprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{845339E9-7BF5-4DA9-8752-A32FF192FF78}|Backend\\Backend.csproj|solutionrelative:backend\\data\\interfaces\\ireceiprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DF79246-C1C2-4AEA-9DC0-6A33CFC43541}|ActividadPractica03\\ActividadPractica03.csproj|c:\\users\\usuario\\desktop\\tecnicatura en programaci\u00F3n\\programacion ii\\proyectos\\actividades de entrega\\actividadpractica03\\actividadpractica03\\controllers\\facturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DF79246-C1C2-4AEA-9DC0-6A33CFC43541}|ActividadPractica03\\ActividadPractica03.csproj|solutionrelative:actividadpractica03\\controllers\\facturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReceipManager.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Tecnicatura en Programaci\u00F3n\\Programacion II\\Proyectos\\Actividades de Entrega\\ActividadPractica03\\Backend\\Services\\ReceipManager.cs",
+              "RelativeDocumentMoniker": "Backend\\Services\\ReceipManager.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Tecnicatura en Programaci\u00F3n\\Programacion II\\Proyectos\\Actividades de Entrega\\ActividadPractica03\\Backend\\Services\\ReceipManager.cs",
+              "RelativeToolTip": "Backend\\Services\\ReceipManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T22:25:16.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReceipRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Tecnicatura en Programaci\u00F3n\\Programacion II\\Proyectos\\Actividades de Entrega\\ActividadPractica03\\Backend\\Data\\Repository\\ReceipRepository.cs",
+              "RelativeDocumentMoniker": "Backend\\Data\\Repository\\ReceipRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Tecnicatura en Programaci\u00F3n\\Programacion II\\Proyectos\\Actividades de Entrega\\ActividadPractica03\\Backend\\Data\\Repository\\ReceipRepository.cs",
+              "RelativeToolTip": "Backend\\Data\\Repository\\ReceipRepository.cs",
+              "ViewState": "AgIAAMUAAAAAAAAAAAAQwOUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T22:10:27.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IReceipRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Tecnicatura en Programaci\u00F3n\\Programacion II\\Proyectos\\Actividades de Entrega\\ActividadPractica03\\Backend\\Data\\Interfaces\\IReceipRepository.cs",
+              "RelativeDocumentMoniker": "Backend\\Data\\Interfaces\\IReceipRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Tecnicatura en Programaci\u00F3n\\Programacion II\\Proyectos\\Actividades de Entrega\\ActividadPractica03\\Backend\\Data\\Interfaces\\IReceipRepository.cs",
+              "RelativeToolTip": "Backend\\Data\\Interfaces\\IReceipRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T22:08:39.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FacturaController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Tecnicatura en Programaci\u00F3n\\Programacion II\\Proyectos\\Actividades de Entrega\\ActividadPractica03\\ActividadPractica03\\Controllers\\FacturaController.cs",
+              "RelativeDocumentMoniker": "ActividadPractica03\\Controllers\\FacturaController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Tecnicatura en Programaci\u00F3n\\Programacion II\\Proyectos\\Actividades de Entrega\\ActividadPractica03\\ActividadPractica03\\Controllers\\FacturaController.cs",
+              "RelativeToolTip": "ActividadPractica03\\Controllers\\FacturaController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwDcAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T21:40:45.355Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
