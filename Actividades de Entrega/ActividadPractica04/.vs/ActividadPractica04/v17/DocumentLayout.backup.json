@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\Tecnicatura en Programaci\u00F3n\\Programacion II\\Proyectos\\Actividades de Entrega\\ActividadPractica04\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{76CC5382-F716-4EFA-8016-C16654D1F6F6}|Backend\\Backend.csproj|c:\\users\\usuario\\desktop\\tecnicatura en programaci\u00F3n\\programacion ii\\proyectos\\actividades de entrega\\actividadpractica04\\backend\\services\\service\\servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76CC5382-F716-4EFA-8016-C16654D1F6F6}|Backend\\Backend.csproj|solutionrelative:backend\\services\\service\\servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{76CC5382-F716-4EFA-8016-C16654D1F6F6}|Backend\\Backend.csproj|c:\\users\\usuario\\desktop\\tecnicatura en programaci\u00F3n\\programacion ii\\proyectos\\actividades de entrega\\actividadpractica04\\backend\\services\\interfaces\\iservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{76CC5382-F716-4EFA-8016-C16654D1F6F6}|Backend\\Backend.csproj|solutionrelative:backend\\services\\interfaces\\iservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01E4ED05-7C5E-4B3B-AE8E-75DF8A86BA3E}|ActividadPractica04\\ActividadPractica04.csproj|c:\\users\\usuario\\desktop\\tecnicatura en programaci\u00F3n\\programacion ii\\proyectos\\actividades de entrega\\actividadpractica04\\actividadpractica04\\controllers\\servicioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01E4ED05-7C5E-4B3B-AE8E-75DF8A86BA3E}|ActividadPractica04\\ActividadPractica04.csproj|solutionrelative:actividadpractica04\\controllers\\servicioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{01E4ED05-7C5E-4B3B-AE8E-75DF8A86BA3E}|ActividadPractica04\\ActividadPractica04.csproj|c:\\users\\usuario\\desktop\\tecnicatura en programaci\u00F3n\\programacion ii\\proyectos\\actividades de entrega\\actividadpractica04\\actividadpractica04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01E4ED05-7C5E-4B3B-AE8E-75DF8A86BA3E}|ActividadPractica04\\ActividadPractica04.csproj|solutionrelative:actividadpractica04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{76CC5382-F716-4EFA-8016-C16654D1F6F6}|Backend\\Backend.csproj|c:\\users\\usuario\\desktop\\tecnicatura en programaci\u00F3n\\programacion ii\\proyectos\\actividades de entrega\\actividadpractica04\\backend\\data\\models\\servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{76CC5382-F716-4EFA-8016-C16654D1F6F6}|Backend\\Backend.csproj|solutionrelative:backend\\data\\models\\servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{76CC5382-F716-4EFA-8016-C16654D1F6F6}|Backend\\Backend.csproj|c:\\users\\usuario\\desktop\\tecnicatura en programaci\u00F3n\\programacion ii\\proyectos\\actividades de entrega\\actividadpractica04\\backend\\data\\models\\turnosdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76CC5382-F716-4EFA-8016-C16654D1F6F6}|Backend\\Backend.csproj|solutionrelative:backend\\data\\models\\turnosdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{76CC5382-F716-4EFA-8016-C16654D1F6F6}|Backend\\Backend.csproj|c:\\users\\usuario\\desktop\\tecnicatura en programaci\u00F3n\\programacion ii\\proyectos\\actividades de entrega\\actividadpractica04\\backend\\services\\service\\servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76CC5382-F716-4EFA-8016-C16654D1F6F6}|Backend\\Backend.csproj|solutionrelative:backend\\services\\service\\servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01E4ED05-7C5E-4B3B-AE8E-75DF8A86BA3E}|ActividadPractica04\\ActividadPractica04.csproj|c:\\users\\usuario\\desktop\\tecnicatura en programaci\u00F3n\\programacion ii\\proyectos\\actividades de entrega\\actividadpractica04\\actividadpractica04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01E4ED05-7C5E-4B3B-AE8E-75DF8A86BA3E}|ActividadPractica04\\ActividadPractica04.csproj|solutionrelative:actividadpractica04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{01E4ED05-7C5E-4B3B-AE8E-75DF8A86BA3E}|ActividadPractica04\\ActividadPractica04.csproj|c:\\users\\usuario\\desktop\\tecnicatura en programaci\u00F3n\\programacion ii\\proyectos\\actividades de entrega\\actividadpractica04\\actividadpractica04\\controllers\\servicioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01E4ED05-7C5E-4B3B-AE8E-75DF8A86BA3E}|ActividadPractica04\\ActividadPractica04.csproj|solutionrelative:actividadpractica04\\controllers\\servicioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76CC5382-F716-4EFA-8016-C16654D1F6F6}|Backend\\Backend.csproj|c:\\users\\usuario\\desktop\\tecnicatura en programaci\u00F3n\\programacion ii\\proyectos\\actividades de entrega\\actividadpractica04\\backend\\data\\models\\turnosdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76CC5382-F716-4EFA-8016-C16654D1F6F6}|Backend\\Backend.csproj|solutionrelative:backend\\data\\models\\turnosdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,11 +34,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Servicio.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Tecnicatura en Programaci\u00F3n\\Programacion II\\Proyectos\\Actividades de Entrega\\ActividadPractica04\\Backend\\Data\\Models\\Servicio.cs",
               "RelativeDocumentMoniker": "Backend\\Data\\Models\\Servicio.cs",
@@ -51,7 +51,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Tecnicatura en Programaci\u00F3n\\Programacion II\\Proyectos\\Actividades de Entrega\\ActividadPractica04\\ActividadPractica04\\Program.cs",
               "RelativeDocumentMoniker": "ActividadPractica04\\Program.cs",
@@ -64,7 +64,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "ServiciosController.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Tecnicatura en Programaci\u00F3n\\Programacion II\\Proyectos\\Actividades de Entrega\\ActividadPractica04\\ActividadPractica04\\Controllers\\ServiciosController.cs",
               "RelativeDocumentMoniker": "ActividadPractica04\\Controllers\\ServiciosController.cs",
@@ -77,7 +77,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Servicio.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Tecnicatura en Programaci\u00F3n\\Programacion II\\Proyectos\\Actividades de Entrega\\ActividadPractica04\\Backend\\Services\\Service\\Servicio.cs",
               "RelativeDocumentMoniker": "Backend\\Services\\Service\\Servicio.cs",
@@ -90,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "IServicio.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Tecnicatura en Programaci\u00F3n\\Programacion II\\Proyectos\\Actividades de Entrega\\ActividadPractica04\\Backend\\Services\\Interfaces\\IServicio.cs",
               "RelativeDocumentMoniker": "Backend\\Services\\Interfaces\\IServicio.cs",
@@ -103,7 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "TurnosDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Tecnicatura en Programaci\u00F3n\\Programacion II\\Proyectos\\Actividades de Entrega\\ActividadPractica04\\Backend\\Data\\Models\\TurnosDbContext.cs",
               "RelativeDocumentMoniker": "Backend\\Data\\Models\\TurnosDbContext.cs",

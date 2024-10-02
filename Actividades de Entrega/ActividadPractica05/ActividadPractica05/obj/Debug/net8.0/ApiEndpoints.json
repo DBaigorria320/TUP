@@ -1,0 +1,219 @@
+[
+  {
+    "ContainingType": "ActividadPractica05.Controllers.ServiciosController",
+    "Method": "Get",
+    "RelativePath": "api/Servicios",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ActividadPractica05.Controllers.ServiciosController",
+    "Method": "Get",
+    "RelativePath": "api/Servicios/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ActividadPractica05.Controllers.ServiciosController",
+    "Method": "Post",
+    "RelativePath": "api/Servicios/{id}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "s",
+        "Type": "Backend.Models.Servicio",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ActividadPractica05.Controllers.ServiciosController",
+    "Method": "Put",
+    "RelativePath": "api/Servicios/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "s",
+        "Type": "Backend.Models.Servicio",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ActividadPractica05.Controllers.ServiciosController",
+    "Method": "Delete",
+    "RelativePath": "api/Servicios/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ActividadPractica05.Controllers.ServiciosController",
+    "Method": "get",
+    "RelativePath": "api/Servicios/precio",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "precio1",
+        "Type": "System.Decimal",
+        "IsRequired": false
+      },
+      {
+        "Name": "precio2",
+        "Type": "System.Decimal",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ActividadPractica05.Controllers.ServiciosController",
+    "Method": "Get",
+    "RelativePath": "api/Servicios/promocion",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "condicion",
+        "Type": "System.Boolean",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ActividadPractica05.Controllers.ServiciosController",
+    "Method": "DeletePromocion",
+    "RelativePath": "api/Servicios/promocion/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ActividadPractica05.Controllers.TurnosController",
+    "Method": "Get",
+    "RelativePath": "api/Turnos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ActividadPractica05.Controllers.TurnosController",
+    "Method": "Post",
+    "RelativePath": "api/Turnos",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "t",
+        "Type": "Backend.Models.Turno",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ActividadPractica05.Controllers.TurnosController",
+    "Method": "Put",
+    "RelativePath": "api/Turnos",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "value",
+        "Type": "Backend.Models.Turno",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ActividadPractica05.Controllers.TurnosController",
+    "Method": "Get",
+    "RelativePath": "api/Turnos/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ActividadPractica05.Controllers.TurnosController",
+    "Method": "Delete",
+    "RelativePath": "api/Turnos/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

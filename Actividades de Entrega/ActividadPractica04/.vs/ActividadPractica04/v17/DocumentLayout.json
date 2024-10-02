@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\Tecnicatura en Programaci\u00F3n\\Programacion II\\Proyectos\\Actividades de Entrega\\ActividadPractica04\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{76CC5382-F716-4EFA-8016-C16654D1F6F6}|Backend\\Backend.csproj|c:\\users\\usuario\\desktop\\tecnicatura en programaci\u00F3n\\programacion ii\\proyectos\\actividades de entrega\\actividadpractica04\\backend\\services\\interfaces\\iservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76CC5382-F716-4EFA-8016-C16654D1F6F6}|Backend\\Backend.csproj|solutionrelative:backend\\services\\interfaces\\iservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{01E4ED05-7C5E-4B3B-AE8E-75DF8A86BA3E}|ActividadPractica04\\ActividadPractica04.csproj|c:\\users\\usuario\\desktop\\tecnicatura en programaci\u00F3n\\programacion ii\\proyectos\\actividades de entrega\\actividadpractica04\\actividadpractica04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{01E4ED05-7C5E-4B3B-AE8E-75DF8A86BA3E}|ActividadPractica04\\ActividadPractica04.csproj|solutionrelative:actividadpractica04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76CC5382-F716-4EFA-8016-C16654D1F6F6}|Backend\\Backend.csproj|c:\\users\\usuario\\desktop\\tecnicatura en programaci\u00F3n\\programacion ii\\proyectos\\actividades de entrega\\actividadpractica04\\backend\\services\\interfaces\\iservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76CC5382-F716-4EFA-8016-C16654D1F6F6}|Backend\\Backend.csproj|solutionrelative:backend\\services\\interfaces\\iservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{76CC5382-F716-4EFA-8016-C16654D1F6F6}|Backend\\Backend.csproj|c:\\users\\usuario\\desktop\\tecnicatura en programaci\u00F3n\\programacion ii\\proyectos\\actividades de entrega\\actividadpractica04\\backend\\data\\models\\servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -46,18 +46,17 @@
               "RelativeToolTip": "Backend\\Data\\Models\\Servicio.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAQwBAAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T23:07:13.282Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-28T23:07:13.282Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Tecnicatura en Programaci\u00F3n\\Programacion II\\Proyectos\\Actividades de Entrega\\ActividadPractica04\\ActividadPractica04\\Program.cs",
               "RelativeDocumentMoniker": "ActividadPractica04\\Program.cs",
               "ToolTip": "C:\\Users\\Usuario\\Desktop\\Tecnicatura en Programaci\u00F3n\\Programacion II\\Proyectos\\Actividades de Entrega\\ActividadPractica04\\ActividadPractica04\\Program.cs",
               "RelativeToolTip": "ActividadPractica04\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-28T22:19:51.873Z",
               "EditorCaption": ""
@@ -72,8 +71,7 @@
               "RelativeToolTip": "ActividadPractica04\\Controllers\\ServiciosController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T21:58:47.396Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-28T21:58:47.396Z"
             },
             {
               "$type": "Document",
@@ -85,12 +83,11 @@
               "RelativeToolTip": "Backend\\Services\\Service\\Servicio.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T21:54:54.899Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-28T21:54:54.899Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "IServicio.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Tecnicatura en Programaci\u00F3n\\Programacion II\\Proyectos\\Actividades de Entrega\\ActividadPractica04\\Backend\\Services\\Interfaces\\IServicio.cs",
               "RelativeDocumentMoniker": "Backend\\Services\\Interfaces\\IServicio.cs",
@@ -111,8 +108,7 @@
               "RelativeToolTip": "Backend\\Data\\Models\\TurnosDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T21:43:37.091Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-28T21:43:37.091Z"
             }
           ]
         }
