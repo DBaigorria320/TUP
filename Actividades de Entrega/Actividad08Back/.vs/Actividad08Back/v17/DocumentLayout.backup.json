@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\Tecnicatura en Programaci\u00F3n\\Programacion II\\Proyectos\\Actividades de Entrega\\Actividad08Back\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7EDB54AA-D05B-4E6D-BB09-13BCC7097A1B}|Actividad08Back\\Actividad08Back.csproj|c:\\users\\usuario\\desktop\\tecnicatura en programaci\u00F3n\\programacion ii\\proyectos\\actividades de entrega\\actividad08back\\actividad08back\\controllers\\turnoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EDB54AA-D05B-4E6D-BB09-13BCC7097A1B}|Actividad08Back\\Actividad08Back.csproj|solutionrelative:actividad08back\\controllers\\turnoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EDB54AA-D05B-4E6D-BB09-13BCC7097A1B}|Actividad08Back\\Actividad08Back.csproj|c:\\users\\usuario\\desktop\\tecnicatura en programaci\u00F3n\\programacion ii\\proyectos\\actividades de entrega\\actividad08back\\actividad08back\\repository\\repositories\\turnodtorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EDB54AA-D05B-4E6D-BB09-13BCC7097A1B}|Actividad08Back\\Actividad08Back.csproj|solutionrelative:actividad08back\\repository\\repositories\\turnodtorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EDB54AA-D05B-4E6D-BB09-13BCC7097A1B}|Actividad08Back\\Actividad08Back.csproj|c:\\users\\usuario\\desktop\\tecnicatura en programaci\u00F3n\\programacion ii\\proyectos\\actividades de entrega\\actividad08back\\actividad08back\\repository\\repositories\\turnorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EDB54AA-D05B-4E6D-BB09-13BCC7097A1B}|Actividad08Back\\Actividad08Back.csproj|solutionrelative:actividad08back\\repository\\repositories\\turnorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EDB54AA-D05B-4E6D-BB09-13BCC7097A1B}|Actividad08Back\\Actividad08Back.csproj|c:\\users\\usuario\\desktop\\tecnicatura en programaci\u00F3n\\programacion ii\\proyectos\\actividades de entrega\\actividad08back\\actividad08back\\repository\\repositories\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EDB54AA-D05B-4E6D-BB09-13BCC7097A1B}|Actividad08Back\\Actividad08Back.csproj|solutionrelative:actividad08back\\repository\\repositories\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EDB54AA-D05B-4E6D-BB09-13BCC7097A1B}|Actividad08Back\\Actividad08Back.csproj|c:\\users\\usuario\\desktop\\tecnicatura en programaci\u00F3n\\programacion ii\\proyectos\\actividades de entrega\\actividad08back\\actividad08back\\repository\\interfaces\\icliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EDB54AA-D05B-4E6D-BB09-13BCC7097A1B}|Actividad08Back\\Actividad08Back.csproj|solutionrelative:actividad08back\\repository\\interfaces\\icliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EDB54AA-D05B-4E6D-BB09-13BCC7097A1B}|Actividad08Back\\Actividad08Back.csproj|c:\\users\\usuario\\desktop\\tecnicatura en programaci\u00F3n\\programacion ii\\proyectos\\actividades de entrega\\actividad08back\\actividad08back\\repository\\interfaces\\iturnodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EDB54AA-D05B-4E6D-BB09-13BCC7097A1B}|Actividad08Back\\Actividad08Back.csproj|solutionrelative:actividad08back\\repository\\interfaces\\iturnodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EDB54AA-D05B-4E6D-BB09-13BCC7097A1B}|Actividad08Back\\Actividad08Back.csproj|c:\\users\\usuario\\desktop\\tecnicatura en programaci\u00F3n\\programacion ii\\proyectos\\actividades de entrega\\actividad08back\\actividad08back\\repository\\interfaces\\iturno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EDB54AA-D05B-4E6D-BB09-13BCC7097A1B}|Actividad08Back\\Actividad08Back.csproj|solutionrelative:actividad08back\\repository\\interfaces\\iturno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EDB54AA-D05B-4E6D-BB09-13BCC7097A1B}|Actividad08Back\\Actividad08Back.csproj|c:\\users\\usuario\\desktop\\tecnicatura en programaci\u00F3n\\programacion ii\\proyectos\\actividades de entrega\\actividad08back\\actividad08back\\controllers\\servicioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EDB54AA-D05B-4E6D-BB09-13BCC7097A1B}|Actividad08Back\\Actividad08Back.csproj|solutionrelative:actividad08back\\controllers\\servicioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EDB54AA-D05B-4E6D-BB09-13BCC7097A1B}|Actividad08Back\\Actividad08Back.csproj|c:\\users\\usuario\\desktop\\tecnicatura en programaci\u00F3n\\programacion ii\\proyectos\\actividades de entrega\\actividad08back\\actividad08back\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EDB54AA-D05B-4E6D-BB09-13BCC7097A1B}|Actividad08Back\\Actividad08Back.csproj|solutionrelative:actividad08back\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Tecnicatura en Programaci\u00F3n\\Programacion II\\Proyectos\\Actividades de Entrega\\Actividad08Back\\Actividad08Back\\Repository\\Repositories\\ClienteRepository.cs",
+              "RelativeDocumentMoniker": "Actividad08Back\\Repository\\Repositories\\ClienteRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Tecnicatura en Programaci\u00F3n\\Programacion II\\Proyectos\\Actividades de Entrega\\Actividad08Back\\Actividad08Back\\Repository\\Repositories\\ClienteRepository.cs",
+              "RelativeToolTip": "Actividad08Back\\Repository\\Repositories\\ClienteRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T23:40:45.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICliente.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Tecnicatura en Programaci\u00F3n\\Programacion II\\Proyectos\\Actividades de Entrega\\Actividad08Back\\Actividad08Back\\Repository\\Interfaces\\ICliente.cs",
+              "RelativeDocumentMoniker": "Actividad08Back\\Repository\\Interfaces\\ICliente.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Tecnicatura en Programaci\u00F3n\\Programacion II\\Proyectos\\Actividades de Entrega\\Actividad08Back\\Actividad08Back\\Repository\\Interfaces\\ICliente.cs",
+              "RelativeToolTip": "Actividad08Back\\Repository\\Interfaces\\ICliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T23:39:33.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ITurnoDto.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Tecnicatura en Programaci\u00F3n\\Programacion II\\Proyectos\\Actividades de Entrega\\Actividad08Back\\Actividad08Back\\Repository\\Interfaces\\ITurnoDto.cs",
+              "RelativeDocumentMoniker": "Actividad08Back\\Repository\\Interfaces\\ITurnoDto.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Tecnicatura en Programaci\u00F3n\\Programacion II\\Proyectos\\Actividades de Entrega\\Actividad08Back\\Actividad08Back\\Repository\\Interfaces\\ITurnoDto.cs",
+              "RelativeToolTip": "Actividad08Back\\Repository\\Interfaces\\ITurnoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T23:13:57.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TurnoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Tecnicatura en Programaci\u00F3n\\Programacion II\\Proyectos\\Actividades de Entrega\\Actividad08Back\\Actividad08Back\\Repository\\Repositories\\TurnoRepository.cs",
+              "RelativeDocumentMoniker": "Actividad08Back\\Repository\\Repositories\\TurnoRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Tecnicatura en Programaci\u00F3n\\Programacion II\\Proyectos\\Actividades de Entrega\\Actividad08Back\\Actividad08Back\\Repository\\Repositories\\TurnoRepository.cs",
+              "RelativeToolTip": "Actividad08Back\\Repository\\Repositories\\TurnoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T23:12:59.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ITurno.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Tecnicatura en Programaci\u00F3n\\Programacion II\\Proyectos\\Actividades de Entrega\\Actividad08Back\\Actividad08Back\\Repository\\Interfaces\\ITurno.cs",
+              "RelativeDocumentMoniker": "Actividad08Back\\Repository\\Interfaces\\ITurno.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Tecnicatura en Programaci\u00F3n\\Programacion II\\Proyectos\\Actividades de Entrega\\Actividad08Back\\Actividad08Back\\Repository\\Interfaces\\ITurno.cs",
+              "RelativeToolTip": "Actividad08Back\\Repository\\Interfaces\\ITurno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T23:12:26.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ServiciosController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Tecnicatura en Programaci\u00F3n\\Programacion II\\Proyectos\\Actividades de Entrega\\Actividad08Back\\Actividad08Back\\Controllers\\ServiciosController.cs",
+              "RelativeDocumentMoniker": "Actividad08Back\\Controllers\\ServiciosController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Tecnicatura en Programaci\u00F3n\\Programacion II\\Proyectos\\Actividades de Entrega\\Actividad08Back\\Actividad08Back\\Controllers\\ServiciosController.cs",
+              "RelativeToolTip": "Actividad08Back\\Controllers\\ServiciosController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwDEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T22:43:24.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TurnoDtoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Tecnicatura en Programaci\u00F3n\\Programacion II\\Proyectos\\Actividades de Entrega\\Actividad08Back\\Actividad08Back\\Repository\\Repositories\\TurnoDtoRepository.cs",
+              "RelativeDocumentMoniker": "Actividad08Back\\Repository\\Repositories\\TurnoDtoRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Tecnicatura en Programaci\u00F3n\\Programacion II\\Proyectos\\Actividades de Entrega\\Actividad08Back\\Actividad08Back\\Repository\\Repositories\\TurnoDtoRepository.cs",
+              "RelativeToolTip": "Actividad08Back\\Repository\\Repositories\\TurnoDtoRepository.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAIwE0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T15:20:24.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Tecnicatura en Programaci\u00F3n\\Programacion II\\Proyectos\\Actividades de Entrega\\Actividad08Back\\Actividad08Back\\Program.cs",
+              "RelativeDocumentMoniker": "Actividad08Back\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Tecnicatura en Programaci\u00F3n\\Programacion II\\Proyectos\\Actividades de Entrega\\Actividad08Back\\Actividad08Back\\Program.cs",
+              "RelativeToolTip": "Actividad08Back\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T15:13:04.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TurnosController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Tecnicatura en Programaci\u00F3n\\Programacion II\\Proyectos\\Actividades de Entrega\\Actividad08Back\\Actividad08Back\\Controllers\\TurnosController.cs",
+              "RelativeDocumentMoniker": "Actividad08Back\\Controllers\\TurnosController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Tecnicatura en Programaci\u00F3n\\Programacion II\\Proyectos\\Actividades de Entrega\\Actividad08Back\\Actividad08Back\\Controllers\\TurnosController.cs",
+              "RelativeToolTip": "Actividad08Back\\Controllers\\TurnosController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAA9wEgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T14:54:05.934Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

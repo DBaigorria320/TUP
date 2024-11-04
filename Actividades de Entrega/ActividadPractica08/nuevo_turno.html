@@ -1,0 +1,37 @@
+<div class="titulo">
+    <h2>Nuevo Turno</h2>
+</div>
+<form id="form" class="container">
+    <div id="servicio" class="d-flex justify-content-between p-3">
+        <div class="fecha col-3">
+            <label for="fecha" class="form-label">Fecha</label>
+            <input type="date" class="form-control" placeholder="Fecha" id="fecha">
+        </div>
+        <div class="hora col-3">
+            <label for="hora" class="form-label">Fecha</label>
+            <input type="time" class="form-control" placeholder="Horario" id="hora">
+        </div>
+        <div class="servicio col-3">
+            <label for="servicio" class="form-label">Servicio</label>
+            <select class="form-select" id="servicios_select"></select>
+        </div>
+    </div>
+    <div id="cliente" class="d-flex justify-content-between p-3">
+        <div class="nombre col-3">
+            <label for="nombre" class="form-label">Nombre</label>
+            <input type="text" class="form-control" placeholder="Nombre" id="nombre">
+        </div>
+        <div class="apellido col-3">
+            <label for="apellido" class="form-label">Apellido</label>
+            <input type="text" class="form-control" placeholder="Apellido" id="apellido">
+        </div>
+        <div class="dni col-3">
+            <label for="dni" class="form-label">DNI</label>
+            <input type="number" class="form-control" placeholder="DNI" id="dni">
+        </div>
+    </div>
+    <div class="botones d-flex justify-content-between container p-3">
+        <button onclick="cargarTurno();" class="btn btn-success" id="boton_turno">Agregar Turno</button>
+        <button type="reset" class="btn btn-danger">Cancelar</button>
+    </div>
+</form>
